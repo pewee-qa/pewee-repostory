@@ -8,11 +8,6 @@ Given User is in the Dashboard
     
     
 
-Scenario: User can search a member
 
-Given User is in the People Page
-    When User types a member
-    And clicks the member's profile
-    Then User should be redirected to the member profile page
 
 
